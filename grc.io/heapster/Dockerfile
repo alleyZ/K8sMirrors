@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/heapster:v1.4.3
+gcr.io/google_containers/heapster-amd64:v1.4.3
 MAINTAINER alleyz.com
